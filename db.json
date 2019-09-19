@@ -5,7 +5,7 @@
     { "id": 3, "name": "W-360", "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."  },
     { "id": 4, "name": "W-201", "content": "Lorem Ipsum has been the industry's standard dummy."  }
   ],
-  "posts": [
+  "post": [
     { "id": 1, "name": "W-180", "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry." },
     { "id": 2, "name": "W-320", "content": "Lorem Ipsum has been the industry's standard dummy."  },
     { "id": 3, "name": "W-360", "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."  },
