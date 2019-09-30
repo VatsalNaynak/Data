@@ -19,9 +19,9 @@
     { "id": 17, "name": "Scorched Pieces", "content": "Lorem Ipsum has been the industry's standard dummy."  }
   ],
   "posts": [
-    { "id": 1, "name": "Cashew Nut W-180", "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry." },
-    { "id": 2, "name": "Cashew Nut W-210", "content": "Lorem Ipsum has been the industry's standard dummy."  },
-    { "id": 3, "name": "Cashew Nut W-240", "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."  },
+    { "id": 1, "name": "Cashew Nut W-180", "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "cashewImg": "https://github.com/VatsalNaynak/Data/blob/master/images/cashew-nut-1.jpg" },
+    { "id": 2, "name": "Cashew Nut W-210", "content": "Lorem Ipsum has been the industry's standard dummy.",  "cashewImg": "https://github.com/VatsalNaynak/Data/blob/master/images/cashew-nut-2.jpg"  },
+    { "id": 3, "name": "Cashew Nut W-240", "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",  "cashewImg": "https://github.com/VatsalNaynak/Data/blob/master/images/cashew-nut-3.jpg"  },
     { "id": 4, "name": "Cashew Nut W-320", "content": "Lorem Ipsum has been the industry's standard dummy."  },
     { "id": 5, "name": "Cashew Nut W-450", "content": "Lorem Ipsum has been the industry's standard dummy."  },
     { "id": 6, "name": "Cashew Nut W-500", "content": "Lorem Ipsum has been the industry's standard dummy."  },
