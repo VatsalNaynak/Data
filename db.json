@@ -19,9 +19,9 @@
     { "id": 17, "name": "Scorched Pieces", "content": "Lorem Ipsum has been the industry's standard dummy."  }
   ],
   "posts": [
-    { "id": 1, "name": "Cashew Nut W-180", "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "cashewImg": "https://raw.githubusercontent.com/VatsalNaynak/Data/master/images/cashew-nut-1.jpg" },
-    { "id": 2, "name": "Cashew Nut W-210", "content": "Lorem Ipsum has been the industry's standard dummy.",  "cashewImg": "https://raw.githubusercontent.com/VatsalNaynak/Data/master/images/cashew-nut-2.jpg"  },
-    { "id": 3, "name": "Cashew Nut W-240", "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",  "cashewImg": "https://raw.githubusercontent.com/VatsalNaynak/Data/master/images/cashew-nut-3.jpg"  },
+    { "id": 1, "slug": "Cashew-Nut-W-180", "name": "Cashew Nut W-180", "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "cashewImg": "https://raw.githubusercontent.com/VatsalNaynak/Data/master/images/cashew-nut-1.jpg" },
+    { "id": 2, "slug": "Cashew-Nut-W-210", "name": "Cashew Nut W-210", "content": "Lorem Ipsum has been the industry's standard dummy.",  "cashewImg": "https://raw.githubusercontent.com/VatsalNaynak/Data/master/images/cashew-nut-2.jpg"  },
+    { "id": 3, "slug": "Cashew-Nut-W-240", "name": "Cashew Nut W-240", "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",  "cashewImg": "https://raw.githubusercontent.com/VatsalNaynak/Data/master/images/cashew-nut-3.jpg"  },
     { "id": 4, "name": "Cashew Nut W-320", "content": "Lorem Ipsum has been the industry's standard dummy.",  "cashewImg": "https://raw.githubusercontent.com/VatsalNaynak/Data/master/images/cashew-nut-4.jpg"  },
     { "id": 5, "name": "Cashew Nut W-450", "content": "Lorem Ipsum has been the industry's standard dummy.",  "cashewImg": "https://raw.githubusercontent.com/VatsalNaynak/Data/master/images/cashew-nut-5.jpg"  },
     { "id": 6, "name": "Cashew Nut W-500", "content": "Lorem Ipsum has been the industry's standard dummy.",  "cashewImg": "https://raw.githubusercontent.com/VatsalNaynak/Data/master/images/cashew-nut-6.jpg"  },
